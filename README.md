@@ -1,46 +1,46 @@
-# 👋 Привет, я Данила Шкердин
+# 👋 Hi, I'm Danila Shkerdin
 
-Backend-разработчик и full-stack энтузиаст. Строю продукты от идеи до продакшена:
-Python, гео-обработка данных, мобильный фронтенд и DevOps.
+Backend developer and full-stack enthusiast. I build products from idea to production:
+Python, geo data processing, mobile frontend and DevOps.
 
 ---
 
-## 🔥 Закреплённые проекты
+## 🔥 Pinned Projects
 
-### 🚴 vel.io — территориальная игра для велосипедистов
-Полноценный стартап: загружаешь **GPX-трек**, сервис находит замкнутые петли,
-превращает их в **полигоны территорий** и закрепляет владение. Пересечения вычитаются,
-а захват спонсорских зон приносит самому игроку **доход**.
+### 🚴 vel.io — a territorial game for cyclists
+A full-fledged startup: upload a **GPX track**, the service detects closed loops,
+turns them into **territory polygons** and locks ownership. Overlapping territories
+are subtracted, and capturing sponsored zones earns the player **real revenue**.
 
 - **Backend:** Python 3.12, FastAPI, SQLAlchemy 2, slowapi
-- **База:** PostgreSQL + **PostGIS**, GeoAlchemy2, Alembic
-- **Геометрия:** Shapely, PyProj
+- **Database:** PostgreSQL + **PostGIS**, GeoAlchemy2, Alembic
+- **Geometry:** Shapely, PyProj
 - **Frontend:** Vanilla JS, Leaflet.js
-- **Mobile:** Capacitor 8 (Android + iOS), фоновая запись GPS
-- **Монетизация:** Telegram Stars, спонсорские территории, реферальная система
-- **Тесты:** pytest + Playwright e2e
+- **Mobile:** Capacitor 8 (Android + iOS), background GPS recording
+- **Monetization:** Telegram Stars, sponsored territories, referral system
+- **Testing:** pytest + Playwright e2e
 
 ### 🔊 python-allure-notifications
-Генерация **Allure-отчёта** в виде диаграммы по результатам тестов
-(passed/failed/skipped/broken) и отправка в **Telegram** через Bot API.
-*5 ⭐ на GitHub, MIT-лицензия.*
+Generate an **Allure report** as a chart of test results
+(passed/failed/skipped/broken) and send it to **Telegram** via the Bot API.
+*5 ⭐ on GitHub, MIT-licensed.*
 
-### 🗂️ Mock Manager — управление моками в Kubernetes
-Toggle окружение-переменных (`MOCK_ENABLED`, `USE_MOCK`) по всем деплойментам из одного UI.
-Щёлкнул — моки включены/выключены.
+### 🗂️ Mock Manager — toggle mocks in Kubernetes
+Switch environment variables (`MOCK_ENABLED`, `USE_MOCK`) across all deployments
+from a single UI. One click — mocks on/off.
 
-- **Стек:** Flutter (UI) → FastAPI → kubectl → Teleport → **Kubernetes API**
-- **Реал-тайм:** WebSocket + watcher изменений K8s
-- **Аудит:** журнал всех изменений (кто, когда, что)
-- **Уведомления:** Slack + Band webhooks
+- **Stack:** Flutter (UI) → FastAPI → kubectl → Teleport → **Kubernetes API**
+- **Real-time:** WebSocket + K8s change watcher
+- **Audit:** history of every change (who, when, what)
+- **Notifications:** Slack + Band webhooks
 
-### 🚁 TelloVision — управление дроном Ryze Tello
-Дрон-контроллер, который **находит твоё лицо** на кадре и сам удерживает
-его в центре. UDP-видеопоток, трекинг, векторное управление.
+### 🚁 TelloVision — control the Ryze Tello drone
+A drone controller that **finds your face** in the frame and keeps it centered
+on its own. UDP video stream, tracking, vector control.
 
 ---
 
-## 🛠️ Технологии
+## 🛠️ Tech Stack
 
 **Backend:** Python · FastAPI · SQLAlchemy · Alembic · pytest
 **Geodata:** PostGIS · GeoAlchemy2 · Shapely · PyProj
@@ -50,9 +50,19 @@ Toggle окружение-переменных (`MOCK_ENABLED`, `USE_MOCK`) по
 
 ---
 
-## 📫 Контакты
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilashkerdin&show_icons=true&theme=dark)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danilashkerdin&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danilashkerdin&theme=dark)
+
+---
+
+## 📫 Contact
 
 - GitHub: [@danilashkerdin](https://github.com/danilashkerdin)
 - Email: danila.shkerdin.01@mail.ru
 
-> 💡 Открыт к обсуждению кода, ревью и здоровой критике.
+> 💡 Open to code reviews and healthy criticism.
