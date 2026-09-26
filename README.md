@@ -54,10 +54,6 @@ Generate an **Allure report** as a chart of test results and send it to **Telegr
 
 A full-fledged startup: upload a **GPX track**, the service turns it into **territory polygons** and locks ownership. FastAPI, PostGIS, Leaflet, Capacitor, pytest + Playwright.
 
-### 🚁 TelloVision — control the Ryze Tello drone
-
-A drone controller that **finds your face** in the frame and keeps it centered. UDP video stream, tracking, vector control.
-
 ---
 
 ## 📫 Contact
