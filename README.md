@@ -63,4 +63,12 @@ A full-fledged startup: upload a **GPX track**, the service turns it into **terr
 - Phone: **+79536279400**
 - GitHub: **[@danilashkerdin](https://github.com/danilashkerdin)**
 
+**📄 Resume (PDF):**
+- 🇬🇧 English — [short](https://github.com/danilashkerdin/danilashkerdin/raw/main/Danil_Shkerdin_CV_QA_Automation_EN_short.pdf) · [extended](https://github.com/danilashkerdin/danilashkerdin/raw/main/Danil_Shkerdin_CV_QA_Automation_EN_extended.pdf)
+- 🇷🇺 Русский — [short](https://github.com/danilashkerdin/danilashkerdin/raw/main/Danil_Shkerdin_CV_QA_Automation_RU_short.pdf) · [extended](https://github.com/danilashkerdin/danilashkerdin/raw/main/Danil_Shkerdin_CV_QA_Automation_RU_extended.pdf)
+
+**📝 Source (Markdown):**
+- 🇬🇧 English — [short](https://github.com/danilashkerdin/danilashkerdin/raw/main/EN_short.md) · [extended](https://github.com/danilashkerdin/danilashkerdin/raw/main/EN_extended.md)
+- 🇷🇺 Русский — [short](https://github.com/danilashkerdin/danilashkerdin/raw/main/RU_short.md) · [extended](https://github.com/danilashkerdin/danilashkerdin/raw/main/RU_extended.md)
+
 > 💼 Open to Senior QA Automation / Tech Lead roles — remote.
