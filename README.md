@@ -48,7 +48,7 @@ Toggle **mocks across Kubernetes deployments** from a single UI. Built to cut ma
 
 ### 🔊 python-allure-notifications
 
-Generate an **Allure report** as a chart of test results and send it to **Telegram** via the Bot API. *5 ⭐ on GitHub, MIT-licensed.*
+Generate an **Allure report** as a chart of test results and send it to **Telegram** via the Bot API. MIT-licensed.
 
 ### 🚴 vel.io — a territorial game for cyclists
 
